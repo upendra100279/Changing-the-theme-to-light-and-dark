@@ -1,0 +1,8 @@
+
+#modeButton{
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+    background-color: bisque;
+    border: 2px solid yellowgreen;
+}
